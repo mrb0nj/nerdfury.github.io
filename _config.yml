@@ -8,6 +8,8 @@ twitter_username: iamnerdfury
 github_username: nerdfury
 email_username: nerdfury@fivedegrees.co.uk
 
+google_tracking_id: "UA-39636175-2"
+
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
