@@ -1,24 +1,18 @@
 <!DOCTYPE html>
-<html>
-	{% include head.html %}
+<html lang="en">
 
-	<body>
-		<nav>
-			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/cv">CV</a></li>
-				<li><a href="/blog">Blog</a></li>
-			</ul>
-		</nav>
-		<div class="container">
-			{{ content }}
-		</div>
-		<footer>
-			<ul>
-				<li><a href="https://github.com/nerdfury">github</a></li>
-				<li><a href="https://twitter.com/iamnerdfury">twitter</a></li>
-			</ul>
-		</footer>
-	</body>
+{% include head.html %}
+
+<body>
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    {% include ga.html %}
+
+</body>
+
 </html>
