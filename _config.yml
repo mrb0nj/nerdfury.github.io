@@ -1,4 +1,16 @@
-name: Nerdfury
-markdown: kramdown
+title: Nerdfury
+header: img/home-bg.jpg
+email: nerdfury@fivedegrees.co.uk
+copyright_name: nerdfury
+description: "Random ramblings of an idiot"
+url: "http://nerdfury.me"
+twitter_username: iamnerdfury
+github_username: nerdfury
+email_username: nerdfury@fivedegrees.co.uk
 
-permalink: /:year/:month/:day/:title
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less"]
+gems:[jekyll-paginate, jekyll-feed]
