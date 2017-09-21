@@ -13,4 +13,3 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["less"]
-gems:[jekyll-paginate, jekyll-feed]
