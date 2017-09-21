@@ -1,4 +1,4 @@
 name: Nerdfury
 markdown: kramdown
 
-theme: jekyll-theme-tactile
+permalink: /:year/:month/:day/:title
