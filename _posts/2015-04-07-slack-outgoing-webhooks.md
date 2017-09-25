@@ -2,7 +2,7 @@
 layout: post
 title: Slack Outgoing Webhooks
 subtitle: "Receive webhooks from Slack.com and respond with a message if you want"
-published: true
+tags: dotnet
 ---
 
 ## The aim of the game

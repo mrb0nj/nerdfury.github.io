@@ -2,6 +2,7 @@
 layout: post
 title: "Freenas Install: Error 19"
 subtitle: "Mounting from ufs:/dev/md0.uzip failed with error 19"
+tags: [home]
 ---
 
 # Background
