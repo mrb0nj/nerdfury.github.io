@@ -247,4 +247,4 @@ _Web.config_
 </configuration>
 ```
 
-Of course there are other thing to do to ensure a web application is not vulnerable to malicious users, but this is the basic _configuration_ fixes that every project needs.
+Of course there are other things to do to ensure a web application is not vulnerable to malicious users, but this is the basic _configuration_ fixes that every project needs.
