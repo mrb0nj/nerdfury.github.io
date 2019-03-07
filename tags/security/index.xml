@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on Nerdfury</title>
-    <link>http://example.org/tags/security/</link>
+    <link>https://nerdfury.me/tags/security/</link>
     <description>Recent content in Security on Nerdfury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/security/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nerdfury.me/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ASP.NET Quick and Easy Security Fixes</title>
-      <link>http://example.org/2017/09/asp.net-quick-and-easy-security-fixes/</link>
+      <link>https://nerdfury.me/2017/09/asp.net-quick-and-easy-security-fixes/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/2017/09/asp.net-quick-and-easy-security-fixes/</guid>
+      <guid>https://nerdfury.me/2017/09/asp.net-quick-and-easy-security-fixes/</guid>
       <description>This is more of a personal reminder of things I need to do on each project I start to keep down the number of small annoying issues raised as part of a penetration test.
 Hide Application and Framework version details This is a nice, easy quick win
 Web.config

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nerdfury</title>
-    <link>http://example.org/tags/</link>
+    <link>https://nerdfury.me/tags/</link>
     <description>Recent content in Tags on Nerdfury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nerdfury.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dotnet</title>
-      <link>http://example.org/tags/dotnet/</link>
+      <link>https://nerdfury.me/tags/dotnet/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/dotnet/</guid>
+      <guid>https://nerdfury.me/tags/dotnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freenas</title>
-      <link>http://example.org/tags/freenas/</link>
+      <link>https://nerdfury.me/tags/freenas/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/freenas/</guid>
+      <guid>https://nerdfury.me/tags/freenas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://example.org/tags/home/</link>
+      <link>https://nerdfury.me/tags/home/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/home/</guid>
+      <guid>https://nerdfury.me/tags/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>http://example.org/tags/security/</link>
+      <link>https://nerdfury.me/tags/security/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/security/</guid>
+      <guid>https://nerdfury.me/tags/security/</guid>
       <description></description>
     </item>
     
