@@ -13,10 +13,10 @@
     
     <item>
       <title>ASP.NET Quick and Easy Security Fixes</title>
-      <link>https://nerdfury.me/2017/09/asp.net-quick-and-easy-security-fixes/</link>
+      <link>https://nerdfury.me/2017/09/25/asp.net-quick-and-easy-security-fixes/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nerdfury.me/2017/09/asp.net-quick-and-easy-security-fixes/</guid>
+      <guid>https://nerdfury.me/2017/09/25/asp.net-quick-and-easy-security-fixes/</guid>
       <description>This is more of a personal reminder of things I need to do on each project I start to keep down the number of small annoying issues raised as part of a penetration test.
 Hide Application and Framework version details This is a nice, easy quick win
 Web.config
@@ -25,19 +25,19 @@ Web.config
     
     <item>
       <title>Freenas Install: Error 19</title>
-      <link>https://nerdfury.me/2017/09/freenas-install-error-19/</link>
+      <link>https://nerdfury.me/2017/09/24/freenas-install-error-19/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nerdfury.me/2017/09/freenas-install-error-19/</guid>
+      <guid>https://nerdfury.me/2017/09/24/freenas-install-error-19/</guid>
       <description>Background Recently, by my own neglegence, suffered a fairly significant data loss after the failure of 2 drives in a RAID5 array. I ignored daily warnings from smartd about &amp;lsquo;degraded array&amp;rsquo; and &amp;lsquo;bad blocks&amp;rsquo; on one of my drives for about 6 months, then we had a storm which caused the smallest of &amp;lsquo;flickers&amp;rsquo; in power, but it was still enough to do some serious damage to another drive. Fortunately, the contents of the array was mostly replaceable media files and old obsolete backups, no big loss, but inconvenient all the same.</description>
     </item>
     
     <item>
       <title>Slack Outgoing Webhooks</title>
-      <link>https://nerdfury.me/2015/04/slack-outgoing-webhooks/</link>
+      <link>https://nerdfury.me/2015/04/07/slack-outgoing-webhooks/</link>
       <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nerdfury.me/2015/04/slack-outgoing-webhooks/</guid>
+      <guid>https://nerdfury.me/2015/04/07/slack-outgoing-webhooks/</guid>
       <description>The aim of the game I built the Slack.Webhooks library so that you could post messages into your Slack account easily, but I wanted to demonstrate how to use it to receive message from slack (and optionally respond with a message).
 Required packages for this demo  Slack.Webhooks NancyFX I chose to use self hosted nancy but feel free to use MVC, WebForms or whatever.  The process Start a new console app (this could just as easily have been a empty asp.</description>
     </item>

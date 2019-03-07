@@ -13,10 +13,10 @@
     
     <item>
       <title>ASP.NET Quick and Easy Security Fixes</title>
-      <link>https://nerdfury.me/2017/09/asp.net-quick-and-easy-security-fixes/</link>
+      <link>https://nerdfury.me/2017/09/25/asp.net-quick-and-easy-security-fixes/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nerdfury.me/2017/09/asp.net-quick-and-easy-security-fixes/</guid>
+      <guid>https://nerdfury.me/2017/09/25/asp.net-quick-and-easy-security-fixes/</guid>
       <description>This is more of a personal reminder of things I need to do on each project I start to keep down the number of small annoying issues raised as part of a penetration test.
 Hide Application and Framework version details This is a nice, easy quick win
 Web.config

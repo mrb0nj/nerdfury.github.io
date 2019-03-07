@@ -13,10 +13,10 @@
     
     <item>
       <title>Freenas Install: Error 19</title>
-      <link>https://nerdfury.me/2017/09/freenas-install-error-19/</link>
+      <link>https://nerdfury.me/2017/09/24/freenas-install-error-19/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nerdfury.me/2017/09/freenas-install-error-19/</guid>
+      <guid>https://nerdfury.me/2017/09/24/freenas-install-error-19/</guid>
       <description>Background Recently, by my own neglegence, suffered a fairly significant data loss after the failure of 2 drives in a RAID5 array. I ignored daily warnings from smartd about &amp;lsquo;degraded array&amp;rsquo; and &amp;lsquo;bad blocks&amp;rsquo; on one of my drives for about 6 months, then we had a storm which caused the smallest of &amp;lsquo;flickers&amp;rsquo; in power, but it was still enough to do some serious damage to another drive. Fortunately, the contents of the array was mostly replaceable media files and old obsolete backups, no big loss, but inconvenient all the same.</description>
     </item>
     
