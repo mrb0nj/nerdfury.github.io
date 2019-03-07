@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Nerdfury</title>
+    <link>http://example.org/tags/security/</link>
+    <description>Recent content in Security on Nerdfury</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASP.NET Quick and Easy Security Fixes</title>
+      <link>http://example.org/2017/09/asp.net-quick-and-easy-security-fixes/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/2017/09/asp.net-quick-and-easy-security-fixes/</guid>
+      <description>This is more of a personal reminder of things I need to do on each project I start to keep down the number of small annoying issues raised as part of a penetration test.
+Hide Application and Framework version details This is a nice, easy quick win
+Web.config
+&amp;lt;configuration&amp;gt; &amp;lt;system.web&amp;gt; &amp;lt;httpRuntime enableVersionHeader=&amp;quot;false&amp;quot; /&amp;gt; &amp;lt;/system.web&amp;gt; &amp;lt;system.webServer&amp;gt; &amp;lt;httpProtocol&amp;gt; &amp;lt;customHeaders&amp;gt; &amp;lt;remove name=&amp;quot;X-Powered-By&amp;quot; /&amp;gt; &amp;lt;remove name=&amp;quot;X-Aspnet-Version&amp;quot; /&amp;gt; &amp;lt;/customHeaders&amp;gt; &amp;lt;/httpProtocol&amp;gt; &amp;lt;/system.webServer&amp;gt; &amp;lt;/configuration&amp;gt;  Prevent Clickjacking The act of someone embedding your web app within an iFrame and capturing click events to do potentially harmful things.</description>
+    </item>
+    
+  </channel>
+</rss>

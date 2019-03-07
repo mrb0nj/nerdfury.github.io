@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/2017/09/asp.net-quick-and-easy-security-fixes/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/09/freenas-install-error-19/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2015/04/slack-outgoing-webhooks/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/dotnet/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/freenas/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/home/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/security/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
